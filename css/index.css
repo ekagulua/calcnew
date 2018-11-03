@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-image: url(https://external-preview.redd.it/ZS6a6QAkp53aCDTM6stk-k2csQTfT0fouH2Dd71c4y8.png?width=640&crop=smart&auto=webp&s=b60f9ba121aeeea9d77f0f4a837f9cd797afc1b6)
+}
+
+div.results input,
+div.results button {
+    height: 30px;
+    width: 104px;
+}
+
+h1 {
+    color: lightgrey;
+}
+
+.button input {
+    height: 30px;
+    width: 50px;
+
+}
+
+.by input,
+div.by input {
+    height: 30px;
+    width: 104px;
+}
+
+#inputdisplay {
+    height: 50px;
+    width: 215px;
+    border: solid 1px black;
+    background-color: lightgrey;
+}
