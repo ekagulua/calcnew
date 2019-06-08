@@ -1,1 +1,1 @@
-# calcnew  https://ekagulua.github.io/calcnew/
+ https://ekagulua.github.io/calcnew/
